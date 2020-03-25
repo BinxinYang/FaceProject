@@ -1,1 +1,1 @@
-# sketch2face
+# Face Project
