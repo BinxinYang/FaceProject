@@ -8,7 +8,7 @@
 * Conclusion：
   * The perplexity affects the absolute positions, but it won't affect the relative positions.
 ## 3-25
-###Color of different class
+### Color of different class
 * Red: add hair
 * Blue: add new part
 * Green: cheek shape
