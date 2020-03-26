@@ -10,12 +10,12 @@
 ## 3-25
 ###Color of different class
 * Red: add hair
-*Blue: add new part
-*Green: cheek shape
-*Purple: eyebrow
-*Orange: eye shape
-*Yellow: eye size
-*Brown: hand-drawn without marker
-*Pink: mouth
-*Grey: nose shape 
+* Blue: add new part
+* Green: cheek shape
+* Purple: eyebrow
+* Orange: eye shape
+* Yellow: eye size
+* Brown: hand-drawn without marker
+* Pink: mouth
+* Grey: nose shape 
 * *stands for baseline
