@@ -3,7 +3,7 @@
 * Double check the details of the data, make sure everything is right.
 * Print out the coordinates and shape of each feature map.
 <div align="center">
-  <img src = '/t-sne/Figure/fig1.png' width = '785px' height = '500px'>
+  <img src = '/t-sne/Figure/fig1.png' width = '230px' height = '220px'>
 </div>
 
 # 3-25
