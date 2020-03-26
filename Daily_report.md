@@ -7,6 +7,7 @@
 <div align="center">
   <img src = '/t-sne/Figure/fig1.png' width = '230px' height = '220px'>
 </div>
+
 * Run experiments to test the effects of perplexity.
 * Analyse the results, observation and conclusion are in t-sne folder.
 ## Documents
