@@ -20,4 +20,6 @@
 * Grey: nose shape 
 * *stands for baseline
 ### Reception field
-
+<div align="center">
+  <img src = '/t-sne/Figure/reception field.png'>
+</div>
