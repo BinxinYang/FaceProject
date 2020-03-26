@@ -7,3 +7,15 @@
   * The relationship between the relative positions of **different** class is almost identical.
 * Conclusion：
   * The perplexity affects the absolute positions, but it won't affect the relative positions.
+## 3-25
+###Color of different class
+* Red: add hair
+*Blue: add new part
+*Green: cheek shape
+*Purple: eyebrow
+*Orange: eye shape
+*Yellow: eye size
+*Brown: hand-drawn without marker
+*Pink: mouth
+*Grey: nose shape 
+* *stands for baseline
