@@ -1,3 +1,10 @@
+# 3-26
+## t-sne
+* Double check the details of the data, make sure everything is right.
+* Print out the coordinates and shape of each feature map.
+<div align="center">
+  <img src = '/figure/fig1.png' width = '785px' height = '500px'>
+</div>
 # 3-25
 ## Github preparation
 * Learn the basic operation of github
